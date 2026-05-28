@@ -1,0 +1,6 @@
+[env]
+MISE_GO_DEFAULT_PACKAGES_FILE = '.default-go-packages'
+
+[tools]
+go = "latest"
+terraform = "latest"
