@@ -15,9 +15,8 @@ import (
 )
 
 const (
-	providerTypeName  = "proxmox-backup-server"
-	providerLocalName = "proxmox"
-	typeNamePrefix    = "proxmox_backup_server"
+	providerTypeName = "proxmox-backup-server"
+	typeNamePrefix   = "proxmox_backup_server"
 )
 
 // Ensure ProxmoxBackupServerProvider satisfies the Terraform provider interface.
